@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "FiraCode-Retina, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 12,
     "editor.tabSize": 4,
@@ -9,7 +9,6 @@
     "editor.matchBrackets": false,
     "editor.wordWrap": "on",
     "explorer.openEditors.visible": 0,
-    "workbench.fontAliasing": "antialiased",
     "window.zoomLevel": 0,
     "workbench.iconTheme": "vscode-icons",
     "files.exclude": {
