@@ -20,5 +20,5 @@ Customization settings
 
 ## Settings
 The `settings.json` file needs to be placed in the following folders:  
-**Windows**: %APPDATA%\Code\User\settings.json  
-**Mac**: $HOME/Library/Application Support/Code/User/settings.json
+**Windows**: ~/AppData/Roaming/Code/User/settings.json  
+**Mac**: ~/Library/Application Support/Code/User/settings.json
