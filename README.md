@@ -19,6 +19,6 @@ Customization settings
 *  VSCode-Icons
 
 ## Settings
-The `settings.json` file needs to be placed in the following folders:
-**Windows**: %APPDATA%\Code\User\settings.json
+The `settings.json` file needs to be placed in the following folders:  
+**Windows**: %APPDATA%\Code\User\settings.json  
 **Mac**: $HOME/Library/Application Support/Code/User/settings.json
