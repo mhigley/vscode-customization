@@ -1,0 +1,32 @@
+{
+    "editor.fontFamily": "FiraCode-Retina, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "phase",
+    "editor.smoothScrolling": true,
+    "editor.matchBrackets": false,
+    "editor.wordWrap": "on",
+    "explorer.openEditors.visible": 0,
+    "workbench.fontAliasing": "antialiased",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.vscode": true,
+        "**/.vagrant": true,
+        "**/env.json": true
+    },
+    "extensions.ignoreRecommendations": true,
+    "emmet.triggerExpansionOnTab": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.colorTheme": "Monokai",
+    "prettier.tabWidth": 4,
+    "workbench.startupEditor": "newUntitledFile"
+}
